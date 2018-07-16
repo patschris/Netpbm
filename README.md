@@ -1,6 +1,7 @@
 # Netpbm
-There are many formats used to encode an image. One of them is the Netpbm format (https://en.wikipedia.org/wiki/Netpbm_format). 
-The netpbm formst supports rgb images (ppm), grayscale images (pgm) and black and white images (pbm). 
+One the formats used to encode an image the Netpbm format (https://en.wikipedia.org/wiki/Netpbm_format). 
+The netpbm format supports rgb images (ppm), grayscale images (pgm) and black and white images (pbm). 
+
 Netpbm uses a "magic" number to describr these images:
 * P1 (B&W image in ascii format)
 * P2 (grayscale image in ascii format)
