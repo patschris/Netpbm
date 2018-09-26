@@ -26,5 +26,5 @@ In the folder "input", there are images to test the program.
 - `make` to compile
 - `make clean` to the delete object files and the executable.
 
-##References <br/>
+## References <br/>
 [1] https://en.wikipedia.org/wiki/Netpbm_format
